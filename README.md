@@ -1,4 +1,4 @@
-# DairyAnalytics
+# Dairy Analytics
 This is a Beer Tap Dispensers application built using Node.js, Express, and MongoDB. The application manages beer dispensers and tracks their usage.
 
 ## :hammer_and_wrench: Technology Stack
